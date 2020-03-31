@@ -42,4 +42,10 @@ g:memo_project_source_dir                   *g:memo_project_source_dir*
   Top level source directory for the current project.
   This is the source directory of the most recent project() command.
 
+g:memo_pass_regular_expression              *g:memo_pass_regular_expression*
+  The output must match this regular expression for the test to pass.
+  If set, the test output will be checked against the specified 
+  regular expressions and at least one of the regular expressions 
+  has to match, otherwise the test will fail. 
+
 vim:tw=78:ts=4:ft=help:norl
