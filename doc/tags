@@ -1,0 +1,10 @@
+!_TAG_FILE_ENCODING	utf-8	//
+g:memo_cmake_binary_dir	memo.txt	/*g:memo_cmake_binary_dir*
+g:memo_cmake_current_binary_dir	memo.txt	/*g:memo_cmake_current_binary_dir*
+g:memo_cmake_current_source_dir	memo.txt	/*g:memo_cmake_current_source_dir*
+g:memo_cmake_source_dir	memo.txt	/*g:memo_cmake_source_dir*
+g:memo_pass_regular_expression	memo.txt	/*g:memo_pass_regular_expression*
+g:memo_project_source_dir	memo.txt	/*g:memo_project_source_dir*
+g:mmemo_project_binary_dir	memo.txt	/*g:mmemo_project_binary_dir*
+memo-cmake	memo.txt	/*memo-cmake*
+memo.txt	memo.txt	/*memo.txt*

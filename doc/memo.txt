@@ -12,12 +12,12 @@ cmake_variables                             *memo-cmake*
 some essential cmake variables.
 
 g:memo_cmake_current_source_dir             *g:memo_cmake_current_source_dir*
-  The path to the source directory currently being processed.
+  `The path to the source directory currently being processed.`
   This the full path to the source directory that 
   is currently being processed by cmake.
 
 g:memo_cmake_current_binary_dir             *g:memo_cmake_current_binary_dir*
-  The path to the binary directory currently being processed.
+  `The path to the binary directory currently being processed.`
   This the full path to the build directory that is currently being processed by
   cmake. Each directory added by add_subdirectory() 
   will create a binary directory in the build tree, 
@@ -25,25 +25,25 @@ g:memo_cmake_current_binary_dir             *g:memo_cmake_current_binary_dir*
   For in-source builds this is the current source directory being processed.
 
 g:memo_cmake_source_dir                     *g:memo_cmake_source_dir*
-  The path to the top level of the source tree.
+  `The path to the top level of the source tree.`
   This is the full path to the top level of the current CMake source tree.
   For an in-source build, this would be the same as CMAKE_BINARY_DIR.
 
 g:memo_cmake_binary_dir                     *g:memo_cmake_binary_dir*
-  The path to the top level of the build tree.
+  `The path to the top level of the build tree.`
   This is the full path to the top level of the current CMake build tree.
   For an in-source build, this would be the same as CMAKE_SOURCE_DIR.
 
 g:memo_project_binary_dir                   *g:mmemo_project_binary_dir*
-  Full path to build directory for project.
+  `Full path to build directory for project.`
   This is the binary directory of the most recent project() command.
 
 g:memo_project_source_dir                   *g:memo_project_source_dir*
-  Top level source directory for the current project.
+  `Top level source directory for the current project.`
   This is the source directory of the most recent project() command.
 
 g:memo_pass_regular_expression              *g:memo_pass_regular_expression*
-  The output must match this regular expression for the test to pass.
+  `The output must match this regular expression for the test to pass.`
   If set, the test output will be checked against the specified 
   regular expressions and at least one of the regular expressions 
   has to match, otherwise the test will fail. 
