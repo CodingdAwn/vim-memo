@@ -48,4 +48,12 @@ g:memo_pass_regular_expression              *g:memo_pass_regular_expression*
   regular expressions and at least one of the regular expressions 
   has to match, otherwise the test will fail. 
 
+g:memo_position_independent_code            *g:memo_position_independent_code*
+  `Whether to create a position-independent target`
+  The POSITION_INDEPENDENT_CODE property determines whether
+  position independent `executables` or `shared libraries` will be created.
+  This property is True by {default} for {SHARED} and {MODULE} library targets and False otherwise.
+  This property is initialized by the value of the 
+  {CMAKE_POSITION_INDEPENDENT_CODE} variable if it is set when a target is created.
+
 vim:tw=78:ts=4:ft=help:norl
