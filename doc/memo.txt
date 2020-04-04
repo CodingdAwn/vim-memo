@@ -34,7 +34,7 @@ g:memo_cmake_binary_dir                     *g:memo_cmake_binary_dir*
   This is the full path to the top level of the current CMake build tree.
   For an in-source build, this would be the same as CMAKE_SOURCE_DIR.
 
-g:memo_project_binary_dir                   *g:mmemo_project_binary_dir*
+g:memo_project_binary_dir                   *g:memo_project_binary_dir*
   `Full path to build directory for project.`
   This is the binary directory of the most recent project() command.
 
