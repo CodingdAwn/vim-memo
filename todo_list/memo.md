@@ -15,8 +15,8 @@
 6. ~~如何使用mac ssh wsl
     尝试使用natapp内网穿透 连接wsl~~
 
-7. ssh连接后 文件夹color变了 而且很不清楚 怎么调
+7. ~~ssh连接后 文件夹color变了 而且很不清楚 怎么调~~ 先使用别的color就行了
 
-8. 将选中的memo文本 移动到back_file中
+8. 将选中的memo文本 移动到back_file中 怎么做标签 将他们归为一类
 
 9. cmake-example这个可以走一遍 physx的cmakelist还是不太会写 有太多的编译参数了
