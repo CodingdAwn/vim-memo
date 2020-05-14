@@ -6,9 +6,9 @@
 "
 "======================================================================
 
-"if exists('g:memo_back_loaded')
-"  finish
-"endif
+if exists('g:memo_back_loaded')
+  finish
+endif
 
 let g:memo_back_loaded = 1
 
