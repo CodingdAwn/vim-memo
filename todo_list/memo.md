@@ -8,7 +8,8 @@
 
 3. physx的cmakelist自己写一些
 
-4. 将选中的memo文本 移动到back_file中 怎么做标签 将他们归为一类
+4. [backup, memo, 备份] 将选中的memo文本 移动到back_file中 怎么做标签 将他们归为一类
+   使用backup.vim 复制寄存器中的值 写入备份文件中
 
 5. cmake-example这个可以走一遍 physx的cmakelist还是不太会写 有太多的编译参数
 
@@ -16,3 +17,4 @@
 --- 
 1. 鸟哥的私房菜
 5. 有那么多视频可以参考学习 不要浪费时间 实在无聊 就打开一个学习的视频看
+

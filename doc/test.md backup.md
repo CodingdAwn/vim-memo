@@ -7,5 +7,7 @@
     5.ssh successful!
 
 
-for test for unnamed register!
+[backup, memo, 备份] 将选中的memo文本 移动到back_file中 怎么做标签 将他们归为一类
+   使用backup.vim 复制寄存器中的值 写入备份文件中
+
 
