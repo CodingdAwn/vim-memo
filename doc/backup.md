@@ -11,3 +11,6 @@
    使用backup.vim 复制寄存器中的值 写入备份文件中
 
 
+[vim, shortcut, 快捷键]vim中显示中线是哪个插件 快键键是？
+   使用 :set cuc会高亮当前列 使用:set cuc!取消
+
