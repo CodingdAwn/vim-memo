@@ -56,4 +56,12 @@ g:memo_position_independent_code            *g:memo_position_independent_code*
   This property is initialized by the value of the 
   {CMAKE_POSITION_INDEPENDENT_CODE} variable if it is set when a target is created.
 
+g:memo_cmake_install_prefix                 *g:memo_cmake_install_prefix*
+  cmake install default dir
+  如果是自己指定的安装目录 如果需要找lib文件的话 unix需要指定ld要找的目录
+  ld.so.conf.d下是所有会遍历寻找的目录 需要执行ldconfig来重新加载配置
+  或者使用LD_LIBRARY_PATH来指定ld的目录
+
+g:memo_cmake_windows_export_all_symbols     *g:memo_cmake_windows_export_all_symbols*
+  如果是在windows下的话 不设置这个 在找dll的时候 他会去找lib 而不是dll
 vim:tw=78:ts=4:ft=help:norl
