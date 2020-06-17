@@ -14,3 +14,4 @@
 [vim, shortcut, 快捷键]vim中显示中线是哪个插件 快键键是？
    使用 :set cuc会高亮当前列 使用:set cuc!取消
 
+[unix system]Manjaro 是一个linux系统 luke smith推荐的 可以了解一下 虽然我是mac
