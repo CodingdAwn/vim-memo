@@ -8,11 +8,7 @@
 
 2. cmake-example这个可以走一遍 physx的cmakelist还是不太会写 有太多的编译参数
 
-3. vim-header插件还有很多可以完善的东西
-   -没有purpose项 已完成
-   -最好AddHeader后 将光标移动到purpose上
-
-4. vim-man 使用Man查找时 可能用的neovim默认的man 总是报错 使用VMan没有问题 考虑是覆盖下map还是怎么整
+3. vim-man 使用Man查找时 可能用的neovim默认的man 总是报错 使用VMan没有问题 考虑是覆盖下map还是怎么整
 
 #想要看的书 视频之类的 长期的
 -----------------------------------------------------------------------------

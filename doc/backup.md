@@ -15,3 +15,8 @@
    使用 :set cuc会高亮当前列 使用:set cuc!取消
 
 [unix system]Manjaro 是一个linux系统 luke smith推荐的 可以了解一下 虽然我是mac
+
+[vim-header]vim-header插件还有很多可以完善的东西
+   -没有purpose项 已完成
+   -最好AddHeader后 将光标移动到purpose上
+
