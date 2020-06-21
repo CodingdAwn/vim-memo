@@ -8,7 +8,10 @@
 
 2. cmake-example这个可以走一遍 physx的cmakelist还是不太会写 有太多的编译参数
 
-3. vim-man 使用Man查找时 可能用的neovim默认的man 总是报错 使用VMan没有问题 考虑是覆盖下map还是怎么整
+[vim-man, neovim, man.vim]vim-man 使用Man查找时 可能用的neovim默认的man 总是报错 
+  使用VMan没有问题 考虑是覆盖下map还是怎么整
+  解决方案 scriptnames看是先加载的vim-man再加载的man.vim 故neovim的man.vim的command覆盖了前者
+  不加载man.vim即可
 
 #想要看的书 视频之类的 长期的
 -----------------------------------------------------------------------------
