@@ -25,3 +25,5 @@
   解决方案 scriptnames看是先加载的vim-man再加载的man.vim 故neovim的man.vim的command覆盖了前者
   不加载man.vim即可
 
+[vim,which-key,highlight,pop menu,Pmenu] vim plugin --- which-key 弹出的面板白色看不清楚
+  原因是vim-init插件修改了Pmenu的配色 Pmenu是pop menu的配色 补全也会用 但是灰色会影响which-key
