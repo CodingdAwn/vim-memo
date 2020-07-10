@@ -6,7 +6,6 @@
     4.使用natapp内网穿透
     5.ssh successful!
 
-
 [backup, memo, 备份] 将选中的memo文本 移动到back_file中 怎么做标签 将他们归为一类
    使用backup.vim 复制寄存器中的值 写入备份文件中
 
@@ -27,5 +26,7 @@
 
 [vim,which-key,highlight,pop menu,Pmenu] vim plugin --- which-key 弹出的面板白色看不清楚
   原因是vim-init插件修改了Pmenu的配色 Pmenu是pop menu的配色 补全也会用 但是灰色会影响which-key
+
 [manjaro, wsl] manjaro with wsl
   收藏了一些网址 按照教程 成功使用了 manjaro with wsl
+
