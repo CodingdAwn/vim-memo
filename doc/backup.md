@@ -27,3 +27,5 @@
 
 [vim,which-key,highlight,pop menu,Pmenu] vim plugin --- which-key 弹出的面板白色看不清楚
   原因是vim-init插件修改了Pmenu的配色 Pmenu是pop menu的配色 补全也会用 但是灰色会影响which-key
+[manjaro, wsl] manjaro with wsl
+  收藏了一些网址 按照教程 成功使用了 manjaro with wsl
