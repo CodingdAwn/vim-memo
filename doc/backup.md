@@ -30,3 +30,8 @@
 [manjaro, wsl] manjaro with wsl
   收藏了一些网址 按照教程 成功使用了 manjaro with wsl
 
+[ranger, preview] ranger img preview, json preview, fzf, rg
+   img preview 使用iterm2 但是不能在tmux下使用
+   json preview使用 jq 
+   fzf是copy了官方的一个fzf函数 ranger下使用fzf_select
+
