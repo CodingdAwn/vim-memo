@@ -6,8 +6,7 @@
 ---
 1. physx的cmakelist自己写一些 可能暂时不需要了。。哎
 2. gd gi coc和Omnisharp现在配置的是冲突的怎么解决 让coc不管c#的事
-3. ranger的配置 放到dotfiles中
-4. ranger img preview, json preview, fzf, rg
+3. ranger img preview, json preview, fzf, rg
 
 #想要看的书 视频之类的 长期的
 -----------------------------------------------------------------------------
