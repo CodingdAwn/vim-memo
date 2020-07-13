@@ -26,3 +26,4 @@
 
 #capstones
 后台管理:localhost:8975
+accout & password is administrator
