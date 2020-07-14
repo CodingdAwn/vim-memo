@@ -35,3 +35,10 @@
    json preview使用 jq 
    fzf是copy了官方的一个fzf函数 ranger下使用fzf_select
 
+[manjaro, wsl, xclip, x, xorg]  manjaro wsl使用xclip时候总是找不到display
+  试了很多修改 resolv.conf文件都没有用
+   了解了一下xclip是需要xserver的 X其实是linux下windows图形界面需要用到的
+   xorg是一些图形接口
+   gnome也是使用xorg的接口
+   最后 在windows下安装了 xming就好了
+

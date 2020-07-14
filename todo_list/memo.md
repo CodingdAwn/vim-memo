@@ -6,10 +6,6 @@
 ---
 1. physx的cmakelist自己写一些 可能暂时不需要了。。哎
 2. gd gi coc和Omnisharp现在配置的是冲突的怎么解决 让coc不管c#的事
-3. manjaro wsl使用xclip时候总是找不到display试了很多修改 resolv.conf文件都没有用
-   了解了一下xclip是需要xserver的 X其实是linux下windows图形界面需要用到的
-   xorg是一些图形接口
-   gnome也是使用xorg的接口
 
 #想要看的书 视频之类的 长期的
 -----------------------------------------------------------------------------
