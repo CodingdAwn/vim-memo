@@ -6,7 +6,6 @@
     4.使用natapp内网穿透
     5.ssh successful!
 
-
 [backup, memo, 备份] 将选中的memo文本 移动到back_file中 怎么做标签 将他们归为一类
    使用backup.vim 复制寄存器中的值 写入备份文件中
 
@@ -27,3 +26,19 @@
 
 [vim,which-key,highlight,pop menu,Pmenu] vim plugin --- which-key 弹出的面板白色看不清楚
   原因是vim-init插件修改了Pmenu的配色 Pmenu是pop menu的配色 补全也会用 但是灰色会影响which-key
+
+[manjaro, wsl] manjaro with wsl
+  收藏了一些网址 按照教程 成功使用了 manjaro with wsl
+
+[ranger, preview] ranger img preview, json preview, fzf, rg
+   img preview 使用iterm2 但是不能在tmux下使用
+   json preview使用 jq 
+   fzf是copy了官方的一个fzf函数 ranger下使用fzf_select
+
+[manjaro, wsl, xclip, x, xorg]  manjaro wsl使用xclip时候总是找不到display
+  试了很多修改 resolv.conf文件都没有用
+   了解了一下xclip是需要xserver的 X其实是linux下windows图形界面需要用到的
+   xorg是一些图形接口
+   gnome也是使用xorg的接口
+   最后 在windows下安装了 xming就好了
+
