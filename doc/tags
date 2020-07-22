@@ -2,7 +2,9 @@
 g:memo_cmake_binary_dir	memo.txt	/*g:memo_cmake_binary_dir*
 g:memo_cmake_current_binary_dir	memo.txt	/*g:memo_cmake_current_binary_dir*
 g:memo_cmake_current_source_dir	memo.txt	/*g:memo_cmake_current_source_dir*
+g:memo_cmake_install_prefix	memo.txt	/*g:memo_cmake_install_prefix*
 g:memo_cmake_source_dir	memo.txt	/*g:memo_cmake_source_dir*
+g:memo_cmake_windows_export_all_symbols	memo.txt	/*g:memo_cmake_windows_export_all_symbols*
 g:memo_pass_regular_expression	memo.txt	/*g:memo_pass_regular_expression*
 g:memo_position_independent_code	memo.txt	/*g:memo_position_independent_code*
 g:memo_project_binary_dir	memo.txt	/*g:memo_project_binary_dir*
