@@ -6,6 +6,7 @@
 ---
 1. physx的cmakelist自己写一些 可能暂时不需要了。。哎
 2. gd gi coc和Omnisharp现在配置的是冲突的怎么解决 让coc不管c#的事
+3. 家里manjaro不能使用system clipboard vim下
 
 #想要看的书 视频之类的 长期的
 -----------------------------------------------------------------------------
@@ -25,3 +26,8 @@
 #capstones
 后台管理:localhost:8975
 accout & password is administrator
+
+1. linux下使用dotnet run 启动工程 但是当前目录不对
+   linux下当前目录是 工程目录 windows vs启动是 bin目录 导致一些读取文件的功能错误
+2. phpactor 太慢了 gd响应很久超时
+3. wsl manjaro make报错问题还是 没有解决
