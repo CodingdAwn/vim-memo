@@ -6,7 +6,14 @@
 ---
 1. physx的cmakelist自己写一些 可能暂时不需要了。。哎
 2. gd gi coc和Omnisharp现在配置的是冲突的怎么解决 让coc不管c#的事
-3. 家里manjaro不能使用system clipboard vim下
+3. 家里manjaro不能使用system clipboard vim下 Done
+   https://vim.fandom.com/wiki/Accessing_the_system_clipboard
+   其实在linux下 + ×是有区别的
+   ×是x11使用的
+   +是ctrl-c ctrl-v用的 
+   之前一直使用的× 一个是wsl里面一般都是使用xclip（是需要x11的）
+   而在window下其实 ×应该和+是一样的了
+  
 
 #想要看的书 视频之类的 长期的
 -----------------------------------------------------------------------------
@@ -29,6 +36,4 @@ accout & password is administrator
 
 1. linux下使用dotnet run 启动工程 但是当前目录不对
    linux下当前目录是 工程目录 windows vs启动是 bin目录 导致一些读取文件的功能错误
-2. phpactor 太慢了 gd响应很久超时 Done
-   使用gtags+php.vim即可满足需求 主要不是写php只是浏览有navigate就行了
-3. wsl manjaro make报错问题还是 没有解决
+   这个是dotnet core上的issue暂时还没有处理 有一个方案是在工程配置指定启动目录 这个还没有试过
