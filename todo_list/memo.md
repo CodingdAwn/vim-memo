@@ -6,7 +6,7 @@
 ---
 1. physx的cmakelist自己写一些 可能暂时不需要了。。哎
 2. gd gi coc和Omnisharp现在配置的是冲突的怎么解决 让coc不管c#的事
-3. 家里manjaro不能使用system clipboard vim下 Done
+[vim,manjaro,i3,clipboard]家里manjaro不能使用system clipboard vim下 Done
    https://vim.fandom.com/wiki/Accessing_the_system_clipboard
    其实在linux下 + ×是有区别的
    ×是x11使用的

@@ -42,3 +42,11 @@
    gnome也是使用xorg的接口
    最后 在windows下安装了 xming就好了
 
+[vim,manjaro,i3,clipboard]家里manjaro不能使用system clipboard vim下 Done
+   https://vim.fandom.com/wiki/Accessing_the_system_clipboard
+   其实在linux下 + ×是有区别的
+   ×是x11使用的
+   +是ctrl-c ctrl-v用的 
+   之前一直使用的× 一个是wsl里面一般都是使用xclip（是需要x11的）
+   而在window下其实 ×应该和+是一样的了
+
