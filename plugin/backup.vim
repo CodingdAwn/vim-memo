@@ -22,6 +22,8 @@ function Write2BackFile()
   let s:test_file_name = 'backup.md'
   let s:test_back_file = s:back_path . s:test_file_name
 
+  " 在最后添加一行空行
+  call add(s:copy_text, '')
   "echom s:copy_text
   call writefile(s:copy_text, s:test_back_file, 'a')
 endfunction
