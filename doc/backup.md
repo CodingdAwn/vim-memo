@@ -49,3 +49,6 @@
    +是ctrl-c ctrl-v用的 
    之前一直使用的× 一个是wsl里面一般都是使用xclip（是需要x11的）
    而在window下其实 ×应该和+是一样的了
+
+[shell,translator]shell下的翻译工具 translate-shell 还不错
+
