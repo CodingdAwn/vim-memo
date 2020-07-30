@@ -52,3 +52,8 @@
 
 [shell,translator]shell下的翻译工具 translate-shell 还不错
 
+[manjaro,input,sunpinyin,sougou] 家里的manjaro使用搜狗输入法问题太多了 
+   ×开机启动后 中文输入法一直加载不上来 而且会出现 输入卡死的情况
+   ××输入法在切换的时候 经常需要切换两次才能到中文
+   solved: 使用了sunpinyin效果刚刚的 并不比搜狗差多少
+
